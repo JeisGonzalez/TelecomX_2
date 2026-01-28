@@ -78,4 +78,5 @@ Incluye:
 ## 🧑‍💻 Autor
 
 Proyecto desarrollado como parte del desafío:
-**_Challenge Telecom X2: análisis de evasión de clientes_**
+**_Challenge Telecom X2: análisis de evasión de clientes_**  
+Notebook construido en Google Colab.
